@@ -1,0 +1,14 @@
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  HHH000389: Unsuccessful: alter table Animal drop foreign key FK_b0eqhsj6t45qb5l3qagigs6pv
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  La table 'jeux.animal' n'existe pas
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  HHH000389: Unsuccessful: alter table Animal drop foreign key FK_k66txcbycwr44794waj35ei1a
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  La table 'jeux.animal' n'existe pas
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  HHH000389: Unsuccessful: alter table Echequier drop foreign key FK_gjimeir1dkovehg23n38avg1v
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  La table 'jeux.echequier' n'existe pas
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  HHH000389: Unsuccessful: alter table Echequier drop foreign key FK_dtqur2pit9sjsojtfgwcudeqd
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  La table 'jeux.echequier' n'existe pas
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  HHH000389: Unsuccessful: alter table Joueur drop foreign key FK_7gb7ticoad7rj31sen3ihiu3u
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  La table 'jeux.joueur' n'existe pas
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  HHH000389: Unsuccessful: alter table Joueur drop foreign key FK_4253kyfgsh8d6hkee7pm7daqh
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  La table 'jeux.joueur' n'existe pas
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  HHH000389: Unsuccessful: alter table Partie drop foreign key FK_pr0qnwagmonsdw9j1rjbty4gn
+2019-01-23 18:03:41,239 : ERROR [SchemaExport] :  La table 'jeux.partie' n'existe pas
