@@ -25,3 +25,7 @@ Travaille reste à faire
 Outils:
 ==============
 Java, Swing, Spring, Hibernate, MySQL, Maven
+
+Liens utile
+==============
+Xou-Dou-Qi/cahier de charges.pdf
