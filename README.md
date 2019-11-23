@@ -17,7 +17,7 @@ il se base sur des déplacements aléatoires.      <br/>
 Travaille reste à faire
 ==============
 •	rendre l’algorithme de la machine plus intelligente en implémentant l’algorithme : min-max<br/>
-•	une interface graphique avec Swing<br/>
+•	une interface graphique avec Swing(Voire les photos  .png)  <br/>
 •	la partie réseau pour permettre au deux joueurs de joués à travers un réseau <br/>
 
 
